@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>PC-IMPIAN</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header>
+    <h1>SELAMAT DATANG</h1>
+  </header>
+
+  <nav>
+    <div class="logo">PC-IMPIAN</div>
+    <ul>
+      <li><a href="#">Home</a></li>
+      <li><a href="#">Galeri</a></li>
+      <li class="dropdown">
+        <a href="#">Produk ▾</a>
+        <ul class="dropdown-content">
+          <li><a href="mainboard.html">Mainboard + Prosesor</a></li>
+          <li><a href="vga-nvidia.html">VGA NVIDIA</a></li>
+          <li><a href="vga-amd.html">VGA AMD</a></li>
+          <li><a href="#">Something else here</a></li>
+        </ul>
+      </li>
+    </ul>
+  </nav>
+
+  <section class="banner">
+    <img src="img/pc.jpg" alt="PC Impian" />
+    <h2>MAINBOARD & PROSESOR</h2>
+  </section>
+
+  <section class="deskripsi">
+    <p>
+      "Bangun PC impianmu dimulai dari sini! Dari performa gaming tinggi hingga kebutuhan kerja profesional,
+      kami menyediakan semua komponen berkualitas yang Anda butuhkan. Lengkap, terpercaya, dan dikirim cepat!"
+    </p>
+    <p>Created by: Salwa Silpiani mhs - NIM 1224040</p>
+  </section>
+
+</body>
+</html>
